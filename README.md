@@ -1,4 +1,4 @@
-[![Open In Colab](https://google.com)](https://google.com)
+[![Open In Colab](https://google.com)](https://colab.research.google.com/github/2catch2/Ternary_Trinary_TriPi/blob/main/Ternary_Trinary_TriPi.ipynb))
 
 # 4-Stage Balanced Ternary Core Pipeline Simulation
 
