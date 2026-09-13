@@ -1,3 +1,5 @@
+[![Open In Colab](https://google.com)](https://google.com)
+
 # 4-Stage Balanced Ternary Core Pipeline Simulation
 
 This repository contains a high-level microarchitectural behavioral simulation framework for a **4-Stage Balanced Ternary Core**. It has been specifically designed to evaluate instruction throughput, primitive gate configurations, and structural hazard mitigation under native ternary computing constraints (`-1`, `0`, `1`).
