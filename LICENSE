@@ -1,0 +1,13 @@
+CUSTOM PROPRIETARY EVALUATION AND INTEGRATION LICENSE
+Version 1.0 (September 2026)
+
+Copyright (c) 2026 Robert Burks. All Rights Reserved.
+
+1. GRANT OF LICENSE. Subject to the terms of this License, the Copyright Holder grants to Ternary Computer System and its engineering affiliates a temporary, non-exclusive, non-transferable, revocable license to review, compile, and execute the simulation software contained herein strictly for the purpose of professional technical evaluation and potential employment/engagement mapping.
+
+2. RESTRICTIONS ON USE. You may not:
+   (a) Modify, adapt, or create derivative works based on this software for commercial hardware deployment without an explicit joint-development or licensing agreement.
+   (b) Distribute, sub-license, rent, or lease this source code or compiled binaries to any external third party.
+   (c) Reverse-engineer or extract the underlying matrix routing or state propagation architectures for production outside this immediate simulation testbed.
+
+3. INTELLECTUAL PROPERTY & PATENT RETENTION. This software simulates architectural concepts that may be subject to pending provisional patent protections under Micro Entity status. No implied patent licenses or ownership transfers are granted under this text. All underlying algorithmic frameworks remain the sole property of the Copyright Holder.
